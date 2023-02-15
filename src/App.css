@@ -11,6 +11,7 @@ button {
   color: #fff;
   border-radius: 10px;
   border: 1px solid #005a9d;
+  transition: 0.2s ease-in;
 }
 
 button:hover {
